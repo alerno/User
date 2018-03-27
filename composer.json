@@ -50,6 +50,9 @@
       "Modules\\User\\Tests\\": "Tests"
     }
   },
+  "config": {
+    "vendor-dir": "/../../vendor"
+  },
   "minimum-stability": "dev",
   "prefer-stable": true
 }
